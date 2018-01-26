@@ -1,3 +1,7 @@
+# Download this FIRST!!
+download cudnn6 for CUDA8 from following url
+- url : https://drive.google.com/file/d/1Qsk_GU3smziA0L70a4nmKN3FcFTzfH28/view?usp=sharing
+
 # Run scriptfile
 - ./installCuda.sh
 
