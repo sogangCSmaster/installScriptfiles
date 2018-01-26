@@ -1,5 +1,5 @@
 # myEnvironment
-my environment for nodejs, python, mecab etc... for UBUNTU
+my environment for nodejs, python, mecab etc... for SERVER, Mac etc...
 
 # How to use
 - chmod +x something.sh
