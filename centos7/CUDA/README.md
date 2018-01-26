@@ -18,3 +18,6 @@ vi ~/.bashrc    in terminal and add the followings on the very end
 
 source ~/.bashrc    to make change
 
+
+# If you haven't installed nvidia driver
+- ./installDriver.sh
