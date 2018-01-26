@@ -25,3 +25,6 @@ add the followings in etc/profile
 
 source profile for modification
 - source /etc/profile
+
+# upgrade pip3
+- pip3 install --upgrade pip
