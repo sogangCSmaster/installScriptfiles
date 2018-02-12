@@ -15,7 +15,7 @@ run "source ~/.bashrc" and we are done!
 # Installing openjdk8
 - chmod +x install_openjdk8.sh
 - ./install_openjdk8.sh
-- vi ~/../etc/profile
+- vi /etc/profile
 
 add the followings in etc/profile
 
