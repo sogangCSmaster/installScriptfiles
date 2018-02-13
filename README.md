@@ -1,5 +1,5 @@
-# myEnvironment
-my environment for nodejs, python, mecab etc... for SERVER, Mac etc...
+# Environment
+environment for nodejs, python3, mecab etc... for SERVER
 
 # How to use
 - chmod +x something.sh
